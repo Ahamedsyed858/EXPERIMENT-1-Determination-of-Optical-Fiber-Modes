@@ -52,12 +52,13 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- 
+![WhatsApp Image 2025-11-16 at 12 40 34_5f75d26f](https://github.com/user-attachments/assets/94dfe224-4fbb-46d0-8fc5-de109c55e2ad)
+
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
 ## Result
+Thus the optical fiber modes are studied successfully.
